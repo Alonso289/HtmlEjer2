@@ -1,0 +1,118 @@
+h1 {
+  color: #B72304;
+  font-family: Segoe UI, Segoe, Optima, Candara, Calibri,Arial, sans-serif;
+  font-size: 3em; 
+  letter-spacing: 0.3em;
+  word-spacing: 1.0em;
+  text-align: center; 
+}
+
+h2 {
+  font-family: Segoe UI, Segoe, Optima, Candara, Calibri,Arial, sans-serif;
+  text-align: center; 
+}
+
+fieldset{
+	border-color: darkblue;
+    border-width: 3px;
+	border-radius: 24px;
+}
+
+legend{
+	color: orange;
+}
+
+#checkBox{
+    text-align: center;
+}
+
+.botones{
+    margin-top: 10px;
+    text-align: center;
+}
+
+p {
+	font-size: "Calibri";
+	font-weight: bold;
+}
+
+input:focus {
+    background-color: #FEF9E7;
+}
+
+input:hover{
+    border-width: 2px;
+}
+
+.contacto{
+	float: left;
+    width: 30%;
+    line-height: 25px;
+}
+
+.textContacto{
+	
+	float: right;
+    width: 70%;
+    line-height: 25px;
+
+}
+
+.personales{
+	float: left;
+    width: 30%;
+    line-height: 25px;
+}
+
+.textPersonales{
+	
+	float: right;
+    width: 70%;
+    line-height: 25px;
+
+}
+
+.domicilioIzq{
+	float: left;
+    width: 30%;
+    line-height: 25px;
+}
+
+.textIzq{
+	
+	float: right;
+    width: 70%;
+    line-height: 25px;
+
+}
+
+.domicilioDer{
+	float: left;
+    width: 30%;
+    line-height: 25px;
+}
+
+.textDer{
+	
+	float: right;
+    width: 70%;
+    line-height: 25px;
+
+}
+
+.domIzq{
+	float: left;
+    width: 30%;
+    line-height: 25px;
+}
+
+.domDer{
+	
+	float: right;
+    width: 70%;
+    line-height: 25px;
+
+}
+
+
+
